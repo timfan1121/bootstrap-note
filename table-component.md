@@ -18,7 +18,7 @@ Bootstrap的table元件在Bootstrap的文件CSS類別底下可以看到Tables的
  - **table-condensed**代表table cell會比較緊密一點
  - **table-hover**滑鼠移至列的上方，顏色會做改變
  - **table-bordered**表格會有框線 
- -
+ 
 ***
 row顏色參數
 ---------
